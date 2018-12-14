@@ -1,0 +1,47 @@
+#title{
+    width: 50%;
+    background: lightskyblue;
+
+    font-size: 24px;
+    color:white;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+#directions{
+    width: 50%;
+    background: lightskyblue;
+
+    font-size: 20px;
+    color:white;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+#random-number{
+    width: 50%;
+    background: lightskyblue;
+    padding: 1%
+}
+
+#crystal-images{
+    margin-top: 1%;
+    padding:1%;
+}
+
+#total-score-text{
+    width: 50%;
+    background: lightskyblue;
+
+    font-size: 20px;
+    color:white;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+#total-score{
+    width: 50%;
+    background: lightskyblue;
+    padding: 1%
+}
+
