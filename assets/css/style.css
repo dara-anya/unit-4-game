@@ -1,5 +1,5 @@
 #title{
-    width: 50%;
+    width: 400px;
     background: lightskyblue;
 
     font-size: 24px;
@@ -9,7 +9,7 @@
 }
 
 #directions{
-    width: 50%;
+    width: 400px;
     background: lightskyblue;
 
     font-size: 20px;
@@ -19,7 +19,7 @@
 }
 
 #random-number{
-    width: 50%;
+    width: 400px;
     background: lightskyblue;
     padding: 1%
 }
@@ -30,7 +30,34 @@
 }
 
 #total-score-text{
-    width: 50%;
+    width: 400px;
+    background: lightskyblue;
+
+    font-size: 20px;
+    color:white;
+    padding: 1%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+/* #total-score{
+    width: 425px;
+    background: lightskyblue;
+    padding: 1%
+} */
+
+#score{
+    width: 400px;
+    background: lightskyblue;
+
+    font-size: 20px;
+    color:white;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+
+#random-number{
+    width: 400px;
     background: lightskyblue;
 
     font-size: 20px;
@@ -40,8 +67,12 @@
 }
 
 #total-score{
-    width: 50%;
+    width: 400px;
     background: lightskyblue;
-    padding: 1%
+
+    font-size: 20px;
+    color:white;
+    padding: 1%;
+    margin-bottom: 1%;
 }
 
